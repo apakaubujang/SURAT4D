@@ -1,5 +1,5 @@
 // !! GANTI LINK UTAMAMU DI SINI !!
-const TARGET_REDIRECT_LINK = "https://suratjujur.com/";
+const TARGET_REDIRECT_LINK = "https://suratiye.com/";
 
 const prizes = [
     { label: "25.000", color: "#ef4444" },
